@@ -4,6 +4,11 @@ Repo to explore statistical modelling in R
 
 Follows the Projects from [**R for Data Science**](https://r4ds.had.co.nz)
 
+## Chapters
+
+3.  Data Visualisation
+4.  
+
 ------------------------------------------------------------------------
 
 ## Resources Log
