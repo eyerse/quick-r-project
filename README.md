@@ -15,7 +15,8 @@ This repo contains the scripts to match the exercises in *R for Data Science*. T
 ## R Handbook Chapters
 
 3.  Data Visualisation
-4.  
+4.  Workflow: basics
+5.  Data Transformation
 
 ------------------------------------------------------------------------
 
