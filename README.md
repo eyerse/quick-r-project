@@ -29,6 +29,8 @@ Documenting resources as I find them
 
     -   Useful plotting guide [ggplot guide](https://ggplot2-book.org/getting-started)
 
+    -   Package Reference [ggplot2](https://ggplot2.tidyverse.org/reference/index.html)
+
     -   [The Layered Grammar of Graphics](http://vita.had.co.nz/papers/layered-grammar.pdf)
 
 -   Welcome to R
