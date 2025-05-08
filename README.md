@@ -84,3 +84,5 @@ Did you know that:
 -   [dput: Write an Object to a File or Recreate it](https://rdrr.io/r/base/dput.html)
 
 -   [formula](http://127.0.0.1:25663/help/library/base/help/formula) and [\~](http://127.0.0.1:25663/help/library/stats/help/~)
+
+- [dplyr::near](https://dplyr.tidyverse.org/reference/near.html) compare floating points safely! %>% 
