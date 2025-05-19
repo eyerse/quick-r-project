@@ -1,1 +1,1 @@
-install.packages("lobstr")
+install.packages("lobstr", "bench")
