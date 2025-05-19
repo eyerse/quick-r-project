@@ -2,15 +2,28 @@
 
 Repo to explore statistical modelling in R
 
-Follows the Projects from [**R for Data Science**](https://r4ds.had.co.nz)
+Repo originally created to follow the Exercises in [**R for Data Science**](https://r4ds.had.co.nz)
 
-This repo contains the scripts to match the exercises in *R for Data Science*. They follow the naming convention C\<Chapter\>\_*\<*ChapterSubSection\>\_\<descriptivetitle\>.R
+[**Advanced R**](https://adv-r.hadley.nz/index.html) suited better
 
 ## Quick Start
 
 1.  Download R
 2.  Set CRAN mirror (cloud is recommended)
 3.  run env_setup.R
+
+# Advanced R
+This dir contains the scripts to match the exercises in *Advanced R*. 
+
+They follow the naming convention \<ChapterSubSection\>\_\<descriptivetitle\>.R
+
+
+
+# R for Data Science
+
+This dir contains the scripts to match the exercises in *R for Data Science*. 
+
+They follow the naming convention C\<Chapter\>\_*\<*ChapterSubSection\>\_\<descriptivetitle\>.R
 
 ## R Handbook Chapters
 
